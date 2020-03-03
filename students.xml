@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+    <studentId>001</studentId>
+    <studentName>Alex</studentName>
+    <lastName>Perez</lastName>
+    <birthDate>Perez</birthDate>
+</student>
+</students>

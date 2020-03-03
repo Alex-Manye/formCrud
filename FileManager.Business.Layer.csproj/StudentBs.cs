@@ -9,19 +9,16 @@ namespace FileManager.Common.Layer
     public class Student
     {
         public Student(int studentId, string name, string lastname, string dateofbirth)
-        {   
-            StudentId = studentId;
+        { StudentId = studentId;
             Name = name;
             LastName = lastname;
             DateOfBirth = dateofbirth;
         }
 
-     
         public Student()
         {
 
         }
-
         public int StudentId {  get; set; }
         public string Name { get; set; }
         public string LastName { get; set; }

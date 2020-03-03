@@ -8,6 +8,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager.DataAccess.Data", "FileManager.DataAccess.Data\FileManager.DataAccess.Data.csproj", "{54BADC80-396E-46D7-B0E1-CA9BC7EBF0AD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess Tier", "DataAccess Tier", "{B7D8F280-B116-4D84-973E-BDE081ECFE73}"
+	ProjectSection(SolutionItems) = preProject
+		students.txt = students.txt
+		students.xml = students.xml
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Tier", "Presentation Tier", "{1D5959A2-25A7-464B-918C-4BB65C539138}"
 EndProject
